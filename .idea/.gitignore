@@ -1,4 +1,4 @@
 # Default ignored files
-*.xml
+vcs.xml
 /shelf/
 /workspace.xml
